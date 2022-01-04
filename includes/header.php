@@ -9,6 +9,8 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Sarabun&display=swap" rel="stylesheet">
     <link href="css/customer.css" rel="stylesheet">
-    <title>Hello, world!</title>
+
+    <title>เว็บไซต์ นายชนันธร</title>
+
   </head>
   <body>
